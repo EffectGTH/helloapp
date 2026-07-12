@@ -8,3 +8,5 @@ def greetBlack():
     print("hello black")
 
 helloMsg()
+
+greetBlack()
